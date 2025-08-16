@@ -87,6 +87,6 @@ jobs:
 #   "width": 1280,
 #   "height": 1280
 # }
-          plugin_screenshot_wait: 5
+          # plugin_screenshot_wait: 5
           repositories_forks: yes
           users_ignored: jhbjbkdsh
