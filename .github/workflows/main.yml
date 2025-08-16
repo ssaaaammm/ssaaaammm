@@ -83,10 +83,10 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Portfolio Site
           plugin_screenshot_url: https://portfolio-9agc0agnb-sams-projects-deaca0ef.vercel.app/
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
+#           plugin_screenshot_viewport: {
+#   "width": 1280,
+#   "height": 1280
+# }
 
           plugin_screenshot_wait: 5
           plugin_stargazers: yes
